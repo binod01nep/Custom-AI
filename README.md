@@ -215,9 +215,3 @@ This project exposes a small REST API, including:
 - `POST /doc/insert` — insert document chunks
 - `POST /doc/ask` — full RAG pipeline
 - `GET /status` — check Ollama availability and counts
-
----
-
-## Notes
-
-This Python version preserves the same learning goals as the original C++ implementation while making the project easier to run, modify, and extend for experimentation.
